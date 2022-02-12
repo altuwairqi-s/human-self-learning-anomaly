@@ -15,7 +15,7 @@ This repository contains the code for the IJCB'20 paper ["Human Activity Analysi
 ```bash
 pip install -r requirements.txt  # use flag --user if permission needed
 ```
-
+  
 ##### Libraries version:
 * Keras: 2.3.1
 * TensorFlow: 2.2.0
